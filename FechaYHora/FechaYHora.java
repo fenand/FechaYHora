@@ -1,11 +1,11 @@
-public class FechaYHora
+﻿public class FechaYHora
 {
     private NumberDisplay hours;
     private NumberDisplay minutes; 
     private NumberDisplay dia;
     private NumberDisplay mes;
     private NumberDisplay año;
-    // Cadena FINAL de fecha + hora
+    // Cadena FINAL de fdededededecha + hora
     private String displayString;
 
     public FechaYHora(){
